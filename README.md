@@ -25,17 +25,17 @@ The portfolio's average weekly return was -1.72%, while the market index average
 Key performance metrics compared to the market index include:
 * **Mean Weekly Return**: Portfolio 0.66%, Market Index 1.06%.
 * **Standard Deviation**: Portfolio 16.14%, Market Index 1.81%.This reflects the portfolio's higher volatility.
-**Beta**: Portfolio 1.23, Market Index 1.00. The portfolio was 23% more reactive to market changes than the index.
-**Alpha**: Portfolio 0.61%, Market Index 0.51%. This positive alpha indicated that active management decisions added value.
-**Sharpe Ratio**: Portfolio 61.35%, Market Index 23.48%. This suggests effective generation of returns relative to risk.
-**Treynor Ratio**: Portfolio 8.03%, Market Index 0.42%. Confirmed higher returns per unit of market risk.
-**Tracking Error**: 15.20%.
-**Information Ratio**: 4.02. Demonstrated conversion of active risk into substantial excess returns.
-**Correlation Coefficient** (with market index): 0.2329506. Reflected the portfolio's unique composition and behavior, reducing dependence on broad market movements.
+* **Beta**: Portfolio 1.23, Market Index 1.00. The portfolio was 23% more reactive to market changes than the index.
+* **Alpha**: Portfolio 0.61%, Market Index 0.51%. This positive alpha indicated that active management decisions added value.
+* **Sharpe Ratio**: Portfolio 61.35%, Market Index 23.48%. This suggests effective generation of returns relative to risk.
+* **Treynor Ratio**: Portfolio 8.03%, Market Index 0.42%. Confirmed higher returns per unit of market risk.
+* **Tracking Error**: 15.20%.
+* **Information Ratio**: 4.02. Demonstrated conversion of active risk into substantial excess returns.
+* **Correlation Coefficient** (with market index): 0.2329506. Reflected the portfolio's unique composition and behavior, reducing dependence on broad market movements.
 
 
 ## Technologies Used
 
-**Microsoft Excel**: Used for building and managing the portfolio model, calculating returns, and performing analyses.
-**Covariance Matrix Analysis**: Used to inform re-balancing decisions.
-**Public Financial Data**: Used for stock information, including Tickers, Company Names, Industries, Categories, Shares Held, and Betas for individual stocks.
+* **Microsoft Excel**: Used for building and managing the portfolio model, calculating returns, and performing analyses.
+* **Covariance Matrix Analysis**: Used to inform re-balancing decisions.
+* **Public Financial Data**: Used for stock information, including Tickers, Company Names, Industries, Categories, Shares Held, and Betas for individual stocks.
