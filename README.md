@@ -23,8 +23,8 @@ Core holdings like CAVA, DUOL, and AMZN provided consistent performance. For exa
 The portfolio's average weekly return was -1.72%, while the market index averaged 1.42%. However, the portfolio significantly outpaced the market in Weeks 10 through 13. In Week 12, the portfolio returned 8.21% compared to the market's 4.83%. At the end of Week 13, the portfolio delivered a total yield of 6.83%, surpassing the market's yield of 5.3%.
 
 Key performance metrics compared to the market index include:
-**Mean Weekly Return**: Portfolio 0.66%, Market Index 1.06%.
-**Standard Deviation**: Portfolio 16.14%, Market Index 1.81%.This reflects the portfolio's higher volatility.
+* **Mean Weekly Return**: Portfolio 0.66%, Market Index 1.06%.
+* **Standard Deviation**: Portfolio 16.14%, Market Index 1.81%.This reflects the portfolio's higher volatility.
 **Beta**: Portfolio 1.23, Market Index 1.00. The portfolio was 23% more reactive to market changes than the index.
 **Alpha**: Portfolio 0.61%, Market Index 0.51%. This positive alpha indicated that active management decisions added value.
 **Sharpe Ratio**: Portfolio 61.35%, Market Index 23.48%. This suggests effective generation of returns relative to risk.
